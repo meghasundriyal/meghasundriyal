@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meghasundriyal
-- 👀 I’m interested in Machine Learning and Computational Linguistics. 
+- 👀 I’m interested in Artificial Intelligence, Computational Social Systems, and Linguistics. 
 - 📫 How to reach me? Mail me at: meghas@iiitd.ac.in
 
 <!---
